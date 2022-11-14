@@ -1,3 +1,7 @@
+# Mini Portfolio
+Link to the app : https://6371c9dfa5d32758959bd81e--musical-lily-fc1b41.netlify.app/
+Hosted by Netflify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
